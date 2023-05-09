@@ -61,8 +61,8 @@
 h1 {
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: 9px;
+    letter-spacing: 15px;
     color: #1e3d8a;
-    line-height: 3vh;
+    line-height: 4vh;
     font-size: 4vh;
 }
