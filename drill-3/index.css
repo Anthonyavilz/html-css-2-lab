@@ -1,0 +1,68 @@
+
+.rowOne {
+    background-color: #c7c7c7;
+    height: 15vh;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.boxOne{
+    height: 10vh;
+    width: 10vh;
+    background-color: #379bdf;
+    display: inline-block;
+}
+
+.rowTwo {
+    background-color: #fafafa;
+    height: 40vh;
+}
+
+.inner-text {
+    text-align: justify;
+    line-height: 3vh;
+    font-size: 23px;
+    padding: 5vh;
+}
+
+
+.rowFour {
+    height: 25vh;
+    background-color: #379bdf;
+}
+
+
+.rowFive{
+    height: 25vh;
+    background-color: #3ed8be;
+}
+
+
+.rowSix{
+    height: 25vh;
+    background-color: #bee68e;
+}
+
+.rowSeven{
+    height: 25vh;
+    background-color: #f8ee65;
+}
+
+.question-bubble {
+    background-color: black;
+    height: 8vh;
+    width: 8vh;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.question-mark {
+    color: white;
+    position: relative;
+    top: 22%; 
+    font-size: 40px;
+}

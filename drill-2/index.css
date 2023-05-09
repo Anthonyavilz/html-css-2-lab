@@ -1,0 +1,68 @@
+.boxOne {
+    border-style: solid;
+    border-width: 5px;
+    height: 25vh;
+    margin: 20px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.shapeOne {
+    background-color: #7209d6;
+    height: 15vh;
+    width: 45px;
+    display: inline-block;
+}
+
+.shapeTwo {
+    background-color: green;
+    height: 20vh;
+    width: 35vw;
+    display: inline-block;
+    margin: 0 50px;
+}
+
+.shapeThree {
+    background-color: #5ab7ed;
+    height: 20vh;
+    width: 20vh;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.boxTwo {
+    border-style: dotted;
+    border-width: 4.5px;
+    height: 35vh;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.innerBox {
+    background-color: #fafac3;
+    height: 20vh;
+    width: 85%;
+    box-shadow: 6px 7px 6px 4px rgba(0,0,0,0.76);
+}
+
+.boxThree {
+    border-style: outset;
+    border-width: 2px;
+    height: 28vh;
+    width: 50%;
+    margin: auto;
+    padding: 100px;
+    box-sizing: border-box;
+    box-shadow: 3px 3px 3px -1px rgba(0,0,0,0.58);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 9px;
+    color: #1e3d8a;
+    line-height: 3vh;
+    font-size: 4vh;
+}
